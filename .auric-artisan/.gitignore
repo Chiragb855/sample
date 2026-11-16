@@ -1,0 +1,15 @@
+# Auric Artisan workspace data — keep volatile artifacts out of source control.
+# Commit settings.json to share team defaults; everything else regenerates.
+
+scan-cache.json
+ai-remediation-plan.md
+ai-remediation-plan.json
+project-health.md
+project-health.json
+health.json
+health.sarif
+health-history.json
+knowledge.json
+rulebook.md
+swatches/
+*.tmp

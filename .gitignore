@@ -1,0 +1,8 @@
+target/
+.tools/
+.auric-artisan/
+.idea/
+*.iml
+.classpath
+.project
+.settings/
